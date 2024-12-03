@@ -13,7 +13,7 @@ Simple Project related to Data Processing.
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Computation, Graphs |
+| Features | • Computation<br>• Graphs |
 | Tools | Dev C++ |
 
 <br>
