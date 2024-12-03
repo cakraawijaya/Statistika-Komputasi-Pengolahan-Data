@@ -13,7 +13,7 @@ Proyek Sederhana yang berkaitan dengan Pemrosesan Data.
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Komputasi, Grafik |
+| Fitur | • Komputasi<br>• Grafik |
 | Peralatan | Dev C++ |
 
 <br>
